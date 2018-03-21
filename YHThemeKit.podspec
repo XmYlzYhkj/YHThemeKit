@@ -9,14 +9,14 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/XmYlzYhkj/YHThemeKit"
 
-  s.license      = “MIT”
+  s.license      = "MIT"
 
   s.author       = { "XmYhkj" => "yhkj_xm@163.com" }
   s.platform     = :ios, "8.0"
 
   s.source       = { :git => "https://github.com/XmYlzYhkj/YHThemeKit.git", :tag => "0.0.1" }
 
-  #s.source_files  = "Classes", "Classes/*"
+  s.source_files  = "Classes", "Classes/*"
 
   s.requires_arc = true
 
