@@ -16,10 +16,10 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/XmYlzYhkj/YHThemeKit.git", :tag => "0.0.1" }
 
-  s.source_files  = "Classes", "Classes/*"
+  #s.source_files  = "Classes", "Classes/*"
 
   s.requires_arc = true
 
-  s.vendored_frameworks = 'Classes/YHThemeKit.framework'
+  s.vendored_frameworks = [‘Classes/YHThemeKit.framework’]
   
 end
