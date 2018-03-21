@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YHThemeKit"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "YHThemeKit is a ThemeManage sdk"
 
   s.description  = "YHThemeKit is only a sdk, you can set a theme for sdk"
